@@ -1,0 +1,8 @@
+//Primitive
+
+// 7 types: String, Number(No float or int values.Only number), Boolean, null(empty), undefined(Eg: let c), Symbol, BigInt 
+
+// Reference type(Non primitive)
+
+// Arrays, Objects, Functions
+(JS is a dynamically typed language)
